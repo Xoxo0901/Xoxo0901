@@ -8,3 +8,6 @@
 Xoxo0901/Xoxo0901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Mi nombre es José Manuel Pérez Medina
+Y me gusta jugar videos juegos 
